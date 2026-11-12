@@ -20,6 +20,7 @@ list of homebrew games and ports for playstation 3
 - [Cookie clicker](https://github.com/IvanPashaev/cookie-clicker-ps3-v2) by [ivanpashaev](https://github.com/IvanPashaev)
 - [Conker's Bad Fur Day](https://github.com/MattyKen619/Conker-PS3-Port) by [MattyKen619](https://github.com/MattyKen619)
 - [Dragon Ball Z: Budokai Tenkaichi 3](https://github.com/Renzo-MGRR/Tenkaichi3Decomp) by [Renzo-MGRR](https://github.com/Renzo-MGRR)
+- [Balatro](https://github.com/meister973/CellJoker) by [meister973](https://github.com/meister973)
 
 ## Emulators
 - [NotDC - Dreamcast emulator](https://github.com/Mayo1970/notdc-ps3) by [Mayo1970](https://github.com/Mayo1970)
