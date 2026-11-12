@@ -21,6 +21,7 @@ list of homebrew games and ports for playstation 3
 - [Conker's Bad Fur Day](https://github.com/MattyKen619/Conker-PS3-Port) by [MattyKen619](https://github.com/MattyKen619)
 - [Dragon Ball Z: Budokai Tenkaichi 3](https://github.com/Renzo-MGRR/Tenkaichi3Decomp) by [Renzo-MGRR](https://github.com/Renzo-MGRR)
 - [Balatro](https://github.com/meister973/CellJoker) by [meister973](https://github.com/meister973)
+- [Starcraft 64](https://github.com/edenas/SC64PS3) by [edenas](https://github.com/edenas)
 
 ## Emulators
 - [NotDC - Dreamcast emulator](https://github.com/Mayo1970/notdc-ps3) by [Mayo1970](https://github.com/Mayo1970)
@@ -34,6 +35,7 @@ list of homebrew games and ports for playstation 3
 - [Webman-MOD](https://github.com/aldostools/webMAN-MOD) by [aldostools](https://github.com/aldostools)
 - [IRISMAN](https://github.com/aldostools/IRISMAN) by [aldostools](https://github.com/aldostools)
 - [AcidPS3 Store](https://github.com/AcidPS3-Project/AcidPS3-Store) by [AcidNT3.1](https://github.com/AcidGunner)
+- [Orbit chat](https://github.com/C2V3ZA/orbit-chat-ps3) by [C2V3ZA](https://github.com/C2V3ZA)
 
 ## Game engines and libraries
 - [raylib](https://github.com/nbe1233/raylib-ps3) port by [nbe1233](https://github.com/nbe1233)
