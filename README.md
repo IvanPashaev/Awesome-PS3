@@ -25,6 +25,12 @@ list of homebrew games and ports for playstation 3
 - [NotDC - Dreamcast emulator](https://github.com/Mayo1970/notdc-ps3) by [Mayo1970](https://github.com/Mayo1970)
 - [PPSSPP](https://github.com/Calyps0man/ppsspp) by [Calyps0man](https://github.com/Calyps0man)
 
+## Utilities and apps
+- [Appolo save tool](https://github.com/bucanero/apollo-ps3) by [Bucanero](https://github.com/bucanero)
+- [PKGI](https://github.com/bucanero/pkgi-ps3) by [Bucanero](https://github.com/bucanero)
+- [Webman-MOD](https://github.com/aldostools/webMAN-MOD) by [aldostools](https://github.com/aldostools)
+- [IRISMAN](https://github.com/aldostools/IRISMAN) by [aldostools](https://github.com/aldostools)
+
 ## Game engines and libraries
 - [raylib](https://github.com/nbe1233/raylib-ps3) port by [nbe1233](https://github.com/nbe1233)
 - [Xenity engine](https://github.com/Fewnity/Xenity-Engine) by [Fewnity](https://github.com/Fewnity)
