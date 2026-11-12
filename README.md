@@ -25,6 +25,8 @@ list of homebrew games and ports for playstation 3
 ## Emulators
 - [NotDC - Dreamcast emulator](https://github.com/Mayo1970/notdc-ps3) by [Mayo1970](https://github.com/Mayo1970)
 - [PPSSPP](https://github.com/Calyps0man/ppsspp) by [Calyps0man](https://github.com/Calyps0man)
+- [SalsaDS](https://github.com/ricowp81/SalsaDS) by [ricowp81](https://github.com/ricowp81)
+- [Salsa64](https://github.com/ricowp81/Salsa64) by [ricowp81](https://github.com/ricowp81)
 
 ## Utilities and apps
 - [Appolo save tool](https://github.com/bucanero/apollo-ps3) by [Bucanero](https://github.com/bucanero)
