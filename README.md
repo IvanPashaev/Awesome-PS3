@@ -31,6 +31,7 @@ list of homebrew games and ports for playstation 3
 - [PKGI](https://github.com/bucanero/pkgi-ps3) by [Bucanero](https://github.com/bucanero)
 - [Webman-MOD](https://github.com/aldostools/webMAN-MOD) by [aldostools](https://github.com/aldostools)
 - [IRISMAN](https://github.com/aldostools/IRISMAN) by [aldostools](https://github.com/aldostools)
+- [AcidPS3 Store](https://github.com/AcidPS3-Project/AcidPS3-Store) by [AcidNT3.1](https://github.com/AcidGunner)
 
 ## Game engines and libraries
 - [raylib](https://github.com/nbe1233/raylib-ps3) port by [nbe1233](https://github.com/nbe1233)
