@@ -22,6 +22,7 @@ list of homebrew games and ports for playstation 3
 - [Dragon Ball Z: Budokai Tenkaichi 3](https://github.com/Renzo-MGRR/Tenkaichi3Decomp) by [Renzo-MGRR](https://github.com/Renzo-MGRR)
 - [Balatro](https://github.com/meister973/CellJoker) by [meister973](https://github.com/meister973)
 - [Starcraft 64](https://github.com/edenas/SC64PS3) by [edenas](https://github.com/edenas)
+- [The legend of Zelda: Ocarina of Time](https://github.com/Gadega/ship-of-gadeguion) by [Gadega](https://github.com/Gadega)
 
 ## Emulators
 - [NotDC - Dreamcast emulator](https://github.com/Mayo1970/notdc-ps3) by [Mayo1970](https://github.com/Mayo1970)
