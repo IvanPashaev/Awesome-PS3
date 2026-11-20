@@ -25,21 +25,22 @@ list of homebrew games and ports for playstation 3
 - [The legend of Zelda: Ocarina of Time](https://github.com/Gadega/ship-of-gadeguion) by [Gadega](https://github.com/Gadega)
 - [Prince Of Persia](https://github.com/theheroGAC/SDLPoP-PS3) by [theheroGAC](https://github.com/theheroGAC)
 - [Dude Nukem 3D](https://github.com/stingziz0u/EDuke32-PS3) by [stingziz0u](https://github.com/stingziz0u)
-## Emulators
+## Emulators:
 - [NotDC - Dreamcast emulator](https://github.com/Mayo1970/notdc-ps3) by [Mayo1970](https://github.com/Mayo1970)
 - [PPSSPP](https://github.com/Calyps0man/ppsspp) by [Calyps0man](https://github.com/Calyps0man)
 - [SalsaDS](https://github.com/ricowp81/SalsaDS) by [ricowp81](https://github.com/ricowp81)
 - [Salsa64](https://github.com/ricowp81/Salsa64) by [ricowp81](https://github.com/ricowp81)
 
-## Utilities and apps
+## Utilities and apps:
 - [Appolo save tool](https://github.com/bucanero/apollo-ps3) by [Bucanero](https://github.com/bucanero)
 - [PKGI](https://github.com/bucanero/pkgi-ps3) by [Bucanero](https://github.com/bucanero)
 - [Webman-MOD](https://github.com/aldostools/webMAN-MOD) by [aldostools](https://github.com/aldostools)
 - [IRISMAN](https://github.com/aldostools/IRISMAN) by [aldostools](https://github.com/aldostools)
 - [AcidPS3 Store](https://github.com/AcidPS3-Project/AcidPS3-Store) by [AcidNT3.1](https://github.com/AcidGunner)
 - [Orbit chat](https://github.com/C2V3ZA/orbit-chat-ps3) by [C2V3ZA](https://github.com/C2V3ZA)
+- [CRTube(youtube client focused on CRT TVs)](https://github.com/patnog/crtube) by [patnog](https://github.com/patnog)
 
-## Game engines and libraries
+## Game engines and libraries:
 - [raylib](https://github.com/nbe1233/raylib-ps3) port by [nbe1233](https://github.com/nbe1233)
 - [Xenity engine](https://github.com/Fewnity/Xenity-Engine) by [Fewnity](https://github.com/Fewnity)
 - [tiny3d](https://github.com/wargio/tiny3D) by [Wargio](https://github.com/wargio)
