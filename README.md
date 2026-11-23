@@ -45,3 +45,4 @@ list of homebrew games and ports for playstation 3
 - [Xenity engine](https://github.com/Fewnity/Xenity-Engine) by [Fewnity](https://github.com/Fewnity)
 - [tiny3d](https://github.com/wargio/tiny3D) by [Wargio](https://github.com/wargio)
 - [RVSN-project(indev)](https://github.com/IvanPashaev/RVSN-project) by [ivanpashaev](https://github.com/IvanPashaev)
+- [codefury](https://github.com/Index-Software/codefury) by [rs189](https://github.com/rs189)
