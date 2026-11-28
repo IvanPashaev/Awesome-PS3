@@ -26,6 +26,8 @@ list of homebrew games and ports for playstation 3
 - [The legend of Zelda: Twilight Princess](https://github.com/Gadega/duskdega) by [Gadega](https://github.com/Gadega)
 - [Prince Of Persia](https://github.com/theheroGAC/SDLPoP-PS3) by [theheroGAC](https://github.com/theheroGAC)
 - [Dude Nukem 3D](https://github.com/stingziz0u/EDuke32-PS3) by [stingziz0u](https://github.com/stingziz0u)
+- [Postal](https://github.com/stingziz0u/POSTAL-PS3) by [stingziz0u](https://github.com/stingziz0u)
+- [Super Mario Galaxy](https://github.com/Gadega/Nebulega) by [Gadega](https://github.com/Gadega)
 
 ## Emulators:
 - [NotDC - Dreamcast emulator](https://github.com/Mayo1970/notdc-ps3) by [Mayo1970](https://github.com/Mayo1970)
