@@ -23,8 +23,10 @@ list of homebrew games and ports for playstation 3
 - [Balatro](https://github.com/meister973/CellJoker) by [meister973](https://github.com/meister973)
 - [Starcraft 64](https://github.com/edenas/SC64PS3) by [edenas](https://github.com/edenas)
 - [The legend of Zelda: Ocarina of Time](https://github.com/Gadega/ship-of-gadeguion) by [Gadega](https://github.com/Gadega)
+- [The legend of Zelda: Twilight Princess](https://github.com/Gadega/duskdega) by [Gadega](https://github.com/Gadega)
 - [Prince Of Persia](https://github.com/theheroGAC/SDLPoP-PS3) by [theheroGAC](https://github.com/theheroGAC)
 - [Dude Nukem 3D](https://github.com/stingziz0u/EDuke32-PS3) by [stingziz0u](https://github.com/stingziz0u)
+
 ## Emulators:
 - [NotDC - Dreamcast emulator](https://github.com/Mayo1970/notdc-ps3) by [Mayo1970](https://github.com/Mayo1970)
 - [PPSSPP](https://github.com/Calyps0man/ppsspp) by [Calyps0man](https://github.com/Calyps0man)
